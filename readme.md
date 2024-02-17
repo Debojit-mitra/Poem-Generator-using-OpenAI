@@ -29,7 +29,8 @@ Before running the Poem Generator project, make sure you have the following:
   const OPENAI_API_KEY = "YOUR-OPENAI-API-KEY";
   ```
 
-<h2>Project Screenshots:</h2>
+## Project Screenshots:
+
 <img src="https://github.com/Debojit-mitra/Poem-Generator-using-OpenAI/blob/main/screenshots/Screenshot1.png?raw=true" alt="project-screenshot" width="auto" height="400/">
 
 ## Extras
