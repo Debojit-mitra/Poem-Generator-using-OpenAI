@@ -12,7 +12,7 @@ Welcome to the Poem Generator project! This simple web application allows users 
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository or just download it:
 
    ```bash
    git clone https://github.com/your-username/poem-generator.git
@@ -29,4 +29,9 @@ Before running the Poem Generator project, make sure you have the following:
   const OPENAI_API_KEY = "YOUR-OPENAI-API-KEY";
   ```
 
-Feel free to customize this section further based on any additional requirements or considerations specific to your project.
+<h2>Project Screenshots:</h2>
+<img src="https://github.com/Debojit-mitra/Poem-Generator-using-OpenAI/blob/main/screenshots/Screenshot1.png?raw=true" alt="project-screenshot" width="auto" height="400/">
+
+## Extras
+
+<b>Feel free to customize this section further based on any additional requirements or considerations specific to your project.</b>
