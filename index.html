@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Poem Generator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Poem Generator</h1>
+      <h5>(using openAI API)</h3>
+      <form id="form">
+        <textarea
+          id="prompt"
+          placeholder="Enter a prompt for your poem"
+          rows="5"
+        ></textarea>
+        <button type="submit" id="submit">Generate Poem</button>
+      </form>
+      <div class="loading" id="loading"></div>
+      <div class="output" id="output"></div>
+    </div>
+     <div class="footer">
+       <p>Made with ❤️ by Debojit</p>
+      </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
